@@ -1,0 +1,57 @@
+;QTL_ID;CHROMOSOME;CENTER_CM;RANGE_CM;RANGE_MBP;SIGNIFICANCE;RAZA;PAIS;GEN_ASOCIADO
+1;13827;1;96.42 (cM);95.9-101.9 (cM);78.3-85.2 (Mbp);Significant;Manchega;Spain;n/a
+2;13830;1;128.2 (cM);124.5-135.7 (cM);97.9-109.6 (Mbp);Significant;Manchega;Spain;n/a
+3;13832;1;124.3 (cM);113.8-124.5 (cM);93.1-97.9 (Mbp);Significant;Manchega;Spain;n/a
+4;57709;1;0.00 (cM);255.51-255.51 (cM);216.4-216.4 (Mbp);Significant;Spanish Churra;Spain;n/a
+5;13992;2;206 (cM);171.7-247.7 (cM);143.9-204.4 (Mbp);Suggestive;Awassi;Australia;n/a
+6;14147;2;238.81 (cM);221.5-236.4 (cM);178.8-198.5 (Mbp);Significant;Dorset;USA;n/a
+7;57681;2;0.00 (cM);69.74-69.74 (cM);55.2-55.2 (Mbp);Significant;Spanish Churra;Spain;n/a
+8;57684;2;0.00 (cM);218.39-218.39 (cM);172.5-172.5 (Mbp);Significant;Spanish Churra;Spain;n/a
+9;7718;2;68.17 (cM);65.81-70.52 (cM);52.0-55.8 (Mbp);Significant;Spanish Churra;Spain;n/a
+10;13996;3;88.2 (cM);73.5-113.0 (cM);41.4-76.9 (Mbp);Significant;Awassi;Australia;n/a
+11;57740;3;130.96 (cM);130.93-130.99 (cM);97.0-97.0 (Mbp);Significant;Spanish Churra;Spain;n/a
+12;193115;4;114.67 (cM);114.67-114.67 (cM);92.5-92.5 (Mbp);Suggestive;Barki;Germany;LEP (leptin)
+13;13672;6;119.8 (cM);129.96-130.16 (cM);100.4-100.6 (Mbp);Significant;Spanish Churra;Spain;n/a
+14;13818;6;59 (cM);57.41-57.61 (cM);42.0-42.2 (Mbp);Significant;Awassi;Hungary;n/a
+15;13820;6;59 (cM);57.41-57.61 (cM);42.0-42.2 (Mbp);Significant;Awassi;Hungary;n/a
+16;14246;6;49.9 (cM);48.33-48.53 (cM);68.7-68.8 (Mbp);Significant;Spanish Churra;Spain;ABCG2 (ATP-binding cassette, sub-family G (WHITE), member 2)
+17;170586;6;0.00 (cM);0.00-0.00 (cM);98.9-99.1 (Mbp);Significant;Valle del Belice;Italy;n/a
+18;57745;7;60.46 (cM);60.41-60.50 (cM);40.7-40.8 (Mbp);Significant;Spanish Churra;Spain;n/a
+19;13985;9;16.6 (cM);16.6-16.6 (cM);13.4-13.4 (Mbp);Significant;Sardianian;Italy;DGAT1 (diacylglycerol O-acyltransferase 1)
+20;16017;11;33 (cM);23.6-66.6 (cM);13.6-38.1 (Mbp);Significant;Awassi;Australia;n/a
+21;37589;11;0.00 (cM);83.71-83.71 (cM);47.5-47.5 (Mbp);Significant;Sardianian;Sassari,Italy;GH (growth hormone)
+22;37592;11;0.00 (cM);83.70-83.70 (cM);47.5-47.5 (Mbp);Significant;Sardianian;Sassari,Italy;GH (growth hormone)
+23;14148;12;37.73 (cM);23.7-54.2 (cM);18.1-37.9 (Mbp);Significant;Dorset;USA;n/a
+24;57690;12;0.00 (cM);91.57-91.57 (cM);68.0-68.0 (Mbp);Significant;Spanish Churra;Spain;n/a
+25;57749;13;20.25 (cM);20.23-20.28 (cM);13.0-13.1 (Mbp);Significant;Spanish Churra;Spain;n/a
+26;170593;13;0.00 (cM);0.00-0.00 (cM);19.4-20.1 (Mbp);Significant;Valle del Belice;Italy;n/a
+27;170594;13;0.00 (cM);0.00-0.00 (cM);20.4-20.5 (Mbp);Significant;Valle del Belice;Italy;n/a
+28;170597;13;0.00 (cM);0.00-0.00 (cM);48.8-49.7 (Mbp);Significant;Valle del Belice;Italy;n/a
+29;170598;13;0.00 (cM);0.00-0.00 (cM);49.0-49.7 (Mbp);Significant;Valle del Belice;Italy;n/a
+30;14190;14;57.9 (cM);64.09-64.29 (cM);39.9-40.0 (Mbp);Significant;Sardianian;Italy;LCAT (lecithin-cholesterol acyltransferase)
+31;170601;14;0.00 (cM);0.00-0.00 (cM);15.0-15.9 (Mbp);Significant;Valle del Belice;Italy;n/a
+32;170602;14;0.00 (cM);0.00-0.00 (cM);15.0-15.9 (Mbp);Significant;Valle del Belice;Italy;n/a
+33;170604;14;0.00 (cM);0.00-0.00 (cM);15.0-15.7 (Mbp);Significant;Valle del Belice;Italy;n/a
+34;170605;14;0.00 (cM);0.00-0.00 (cM);18.0-18.3 (Mbp);Significant;Valle del Belice;Italy;n/a
+35;14186;15;73.5 (cM);80.34-82.05 (cM);57.0-57.3 (Mbp);Significant;Sardianian;Italy;n/a
+36;57696;16;0.00 (cM);38.08-38.08 (cM);32.2-32.2 (Mbp);Significant;Spanish Churra;Spain;n/a
+37;57730;16;13.53 (cM);11.86-15.19 (cM);10.1-12.9 (Mbp);Significant;Spanish Churra;Spain;n/a
+38;57752;16;14.13 (cM);11.86-16.40 (cM);10.1-13.9 (Mbp);Significant;Spanish Churra;Spain;n/a
+39;170609;16;0.00 (cM);0.00-0.00 (cM);41.5-41.6 (Mbp);Significant;Valle del Belice;Italy;n/a
+40;57756;17;52.31 (cM);28.39-76.23 (cM);15.8-42.4 (Mbp);Significant;Spanish Churra;Spain;n/a
+41;14149;18;40.88 (cM);22.3-56 (cM);10.6-33.3 (Mbp);Significant;Dorset;USA;n/a
+42;14150;18;40.88 (cM);22.3-56 (cM);10.6-33.3 (Mbp);Significant;Dorset;USA;n/a
+43;14192;18;91.7 (cM);107.59-107.79 (cM);63.4-63.5 (Mbp);Significant;Sardianian;Italy;n/a
+44;14193;18;91.7 (cM);107.59-107.79 (cM);63.4-63.5 (Mbp);Significant;Sardianian;Italy;n/a
+45;57732;19;57.44 (cM);56.39-58.50 (cM);47.5-49.3 (Mbp);Significant;Spanish Churra;Spain;n/a
+46;170613;19;0.00 (cM);0.00-0.00 (cM);40.2-41.1 (Mbp);Significant;Valle del Belice;Italy;n/a
+47;170616;19;0.00 (cM);0.00-0.00 (cM);46.5-46.5 (Mbp);Significant;Valle del Belice;Italy;n/a
+48;14006;20;36.8 (cM);21.2-53.9 (cM);12.3-23.7 (Mbp);Significant;Awassi;Australia;n/a
+49;14151;20;39.82 (cM);0-69.5 (cM);2.4-38.4 (Mbp);Significant;Dorset;USA;n/a
+50;193118;20;66.88 (cM);66.88-66.88 (cM);34.3-34.3 (Mbp);Suggestive;Barki;Germany;PRL (prolactin)
+51;170221;21;43.59 (cM);43.59-43.59 (cM);28.9-28.9 (Mbp);Significant;Valle del Belice;Italy;DCPS (decapping enzyme, scavenger)
+52;57763;22;10.68 (cM);10.64-10.72 (cM);6.5-6.6 (Mbp);Significant;Spanish Churra;Spain;n/a
+53;13906;23;68.97 (cM);52.8-83.9 (cM);45.5-56.9 (Mbp);Suggestive;Spanish Churra;Spain;n/a
+54;14008;24;73 (cM);58.5-73 (cM);32.0-42.0 (Mbp);Suggestive;Awassi;Australia;n/a
+55;14152;24;14.46 (cM);0-23 (cM);2.6-12.3 (Mbp);Significant;Dorset;USA;n/a
+56;170222;26;16.02 (cM);16.02-16.02 (cM);9.9-9.9 (Mbp);Significant;Valle del Belice;Italy;n/a
